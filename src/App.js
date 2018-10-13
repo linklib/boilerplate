@@ -23,6 +23,7 @@ export default class App extends PrismaApp {
     themeOptions: {
       direction: 'ltr',
       paletteType: 'light',
+      paletteType: 'dark',
     },
   }
 
